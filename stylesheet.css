@@ -211,3 +211,20 @@
     padding: 21px 0;
     display: none;
   }
+
+  /* Untuk Tablet */
+/* Tambahkan breakpoint max-width: 1000px */
+@media (max-width: 1000px) {
+  .item {
+    width: 50%;
+  }
+}
+
+
+/* Untuk Smartphone */
+/* Tambahkan breakpoint max-width: 670px */
+@media (max-width: 670px) {
+  .item {
+    width: 100%;
+  }
+}
