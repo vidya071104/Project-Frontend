@@ -11,22 +11,6 @@
     padding: 0;
   }
 
-  /* Tambahkan breakpoint max-width: 1000px */
-@media (max-width:1000px) {
-  /* Ganti warna <h1> ke blue */
-  h1 {
-    color:blue;
-  }
-  }
-
-  /* Tambahkan breakpoint max-width: 670px */
-@media (max-width:670px) {
-  /* Ganti warna <h1> ke green */
-  h1 {
-   color: green;
-  }
-  }
-  
   body {
     font-family: "Lucida Grande";
   }
@@ -227,4 +211,3 @@
     padding: 21px 0;
     display: none;
   }
-  
